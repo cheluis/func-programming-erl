@@ -21,4 +21,3 @@ treble(A) ->
 hme(_X, _X, _X) -> 3;
 hme(_X, _X, _Y) -> 2;
 hme(_X, _Y, _Y) -> 1;
-hme(_, _, _) -> 0.
